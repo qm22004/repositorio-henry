@@ -1,0 +1,3 @@
+Podemos decir que una variable es como una "porcion" de memoria en la que podemos guardar algun tipo de datos, sean stos numeros, palabras, etc..
+Tenmos un string, que es un string, seria algo asi como una coleccion de caracteres, estos podrian ser nuemros, letras, simbolos...... pueden formar palabras, frases, numeros de mas de una cifra, simbolos uno a continuacion del otro, con esto ultimom poemos decir que son como cadenas....
+
